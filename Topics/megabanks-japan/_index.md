@@ -67,6 +67,7 @@ tags:
 - **特徴**: 旧第一勧業・富士・日本興業の3行統合。強固な法人取引基盤
 
 ## Related Topics
+- [[mizuho-bank-history]] — みずほ銀行の歴史（前身3行・統合・システム障害）
 - [[major-banks-us]] — Major banks in the US (comparative perspective)
 
 ## Resources
