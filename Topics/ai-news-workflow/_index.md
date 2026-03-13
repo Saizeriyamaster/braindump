@@ -13,6 +13,7 @@ tags:
 
 ## Findings
 - [[workflow-approaches]] — アプローチ比較・推奨スタック・ニュースソース候補
+- [[n8n-step-by-step]] — n8nでの構築手順（Step by Step）
 
 ## Key Questions
 - n8nとMakeどちらが使いやすいか？
