@@ -55,6 +55,7 @@ tags:
 
 ## Research Notes
 
+- [[iran-history-and-us-conflict-overview]] - イランの歴史と米イラン対立の体系的概観（入門）
 - [[historical-background]] - CIAクーデターからイラン革命への歴史的経緯
 - [[iran-iraq-war]] - イラン・イラク戦争（1980-1988）の詳細
 - [[nuclear-program-jcpoa]] - 核問題とJCPOAの経緯・崩壊
