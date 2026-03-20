@@ -35,9 +35,10 @@ tags:
 
 <!-- 研究実行後に更新 -->
 
-## Related Topics
+## People
 
-- [[gaudi]] - アントニ・ガウディ（建築家）の詳細研究
+- [[gaudi/_index|ガウディ]] - アントニ・ガウディ（建築家、1852–1926）
+- [[yoshida-shoin/_index|吉田松陰]] - 幕末の思想家・教育者（1830–1859）
 
 ## Resources
 
