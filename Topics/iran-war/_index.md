@@ -65,6 +65,7 @@ tags:
 ## Related Topics
 
 - [[major-banks-us]] - 制裁と国際金融システムの関連
+- [[israel-middle-east]] - イスラエルと周辺国の関係（パレスチナ・レバノン・中東戦争）
 - 中東地政学
 - 核不拡散体制
 - 米国の中東政策
