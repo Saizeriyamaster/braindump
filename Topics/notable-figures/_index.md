@@ -1,10 +1,10 @@
 ---
 title: "偉人・著名人"
 created: "2026-03-21"
-status: planned
+status: active
 tags:
   - topic/notable-figures
-  - status/planned
+  - status/active
 ---
 
 # 偉人・著名人
@@ -39,6 +39,7 @@ tags:
 
 - [[gaudi/_index|ガウディ]] - アントニ・ガウディ（建築家、1852–1926）
 - [[yoshida-shoin/_index|吉田松陰]] - 幕末の思想家・教育者（1830–1859）
+- [[takasugi-shinsaku/_index|高杉晋作]] - 幕末の志士・軍事指導者（1839–1867）
 
 ## Resources
 
