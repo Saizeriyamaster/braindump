@@ -19,6 +19,7 @@ AIデータセンター・コンピューティングインフラをめぐる巨
 
 ## Findings
 - [[son-masayoshi-500-billion-datacenter]] — 孫正義の$500B（80兆円）AIデータセンター投資と他社比較
+- [[claude-products-comparison]] — Claude Desktop・Chrome・Slack・Code・Code for Web・Coworkの違いと使い分け
 
 ## Related Topics
 - [[notable-figures]]
