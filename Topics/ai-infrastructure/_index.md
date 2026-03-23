@@ -20,6 +20,7 @@ AIデータセンター・コンピューティングインフラをめぐる巨
 ## Findings
 - [[son-masayoshi-500-billion-datacenter]] — 孫正義の$500B（80兆円）AIデータセンター投資と他社比較
 - [[claude-products-comparison]] — Claude Desktop・Chrome・Slack・Code・Code for Web・Coworkの違いと使い分け
+- [[sbg-stock-decline-logic]] — SBG株価下落の裏ロジック（80兆円投資発表と逆説的な株安の構造）
 
 ## Related Topics
 - [[notable-figures]]
