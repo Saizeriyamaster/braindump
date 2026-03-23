@@ -35,6 +35,45 @@ tags:
 
 ---
 
+### ポーツマスコンソーシアム：参画21社
+
+米エネルギー省のポーツマスサイト（オハイオ州パイクトン）を拠点とするコンソーシアム。日米貿易投資協定の枠組みで組成。
+
+**日本企業（12社）**
+
+| 企業名 | 業種 |
+|---|---|
+| ソフトバンクグループ | 通信・投資 |
+| 東芝 | 電機・インフラ |
+| 日立製作所 | 電機・インフラ |
+| 三菱電機 | 電機 |
+| みずほ銀行 | メガバンク |
+| 三菱UFJ銀行 | メガバンク |
+| 三井住友銀行 | メガバンク |
+| パナソニックホールディングス | 電機 |
+| 村田製作所 | 電子部品 |
+| 住友電気工業 | 電線・インフラ |
+| TDK | 電子部品 |
+| フジクラ | 電線・光ケーブル |
+
+**米国企業（9社）**
+
+| 企業名 | 業種 |
+|---|---|
+| Goldman Sachs | 投資銀行 |
+| J.P. Morgan | 投資銀行 |
+| Morgan Stanley | 投資銀行 |
+| Citi | 銀行 |
+| GE Vernova | エネルギー・発電 |
+| Kinder Morgan | パイプライン・エネルギーインフラ |
+| Bechtel | 建設・エンジニアリング |
+| Kiewit | 建設 |
+| Carrier Global | 空調・冷却システム |
+
+> 日本側は3メガバンク＋重電・電子部品メーカー、米国側は金融大手＋エネルギー・建設という構成。データセンター本体よりも**資金調達・発電・建設**に強みを持つ企業が中心。
+
+---
+
 ### 規模感の比較：年間CapEx（2026年予測）
 
 各社の**年間**設備投資（データセンター・AI含む）と比較する。孫正義の$500Bは**1つのプロジェクト**として4〜5年で投下する規模。
@@ -48,7 +87,7 @@ Amazon（2026年CapEx）       ████████              $200B（約
 Alphabet（2026年CapEx）     ███████               $175〜185B（約27〜28兆円）
 Microsoft（2026年CapEx）    █████                 $120B+（約18.5兆円+）
 Meta（2026年CapEx）         █████                 $115〜135B（約18〜21兆円）
-Stargate PJ（年平均換算）   █████                 $125B/年（4年間$500B）
+Stargate PJ（年平均換算)     █████                 $125B/年（4年間$500B）
 Oracle（2026年CapEx）       ██                    $50B（約7.7兆円）
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 5社合計（2026年）           ████████████████████████████  $660〜690B（約102〜107兆円）
@@ -121,3 +160,4 @@ Oracle（2026年CapEx）       ██                    $50B（約7.7兆円）
 - [IEEE ComSoc：Hyperscaler capex > $600 bn in 2026](https://techblog.comsoc.org/2025/12/22/hyperscaler-capex-600-bn-in-2026-a-36-increase-over-2025-while-global-spending-on-cloud-infrastructure-services-skyrockets/)
 - [Futurum：AI Capex 2026: The $690B Infrastructure Sprint](https://futurumgroup.com/insights/ai-capex-2026-the-690b-infrastructure-sprint/)
 - [TIME：Masayoshi Son Is Betting It All on American AI](https://time.com/7380074/ai-masayoshi-son-japan-softbank/)
+- [SoftBank：Launch of the "Portsmouth Consortium"](https://group.softbank/en/news/press/20260321)
